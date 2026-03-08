@@ -1,0 +1,5 @@
+{
+  "name": "RainHarvest Pro",
+  "description": "A professional field assessment tool for rooftop rainwater harvesting systems.",
+  "requestFramePermissions": ["geolocation"]
+}
